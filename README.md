@@ -53,3 +53,94 @@ The pipeline is composed of four main stages:
 
 ## 📁 Project Structure
 
+sentiment-analysis-graph-rag/
+│
+├── notebooks/ # Training and analysis notebooks
+│ ├── Sentiment_Analysis_Using_Bertweet.ipynb
+│ └── Graph_Rag.ipynb
+│
+├── outputs/ # Generated HTML visualizations
+│ ├── pipeline.html
+│ ├── prediction.html
+│ ├── ego_network.html
+│ ├── community.html
+│ └── subgraph.html
+│
+├── config/ # Configuration files
+│
+├── README.md
+└── requirements.txt
+
+---
+
+## 🚀 How to Run
+
+1. Install dependencies:
+```bash
+pip install -r requirements.txt
+Run the notebooks in the following order:
+
+Sentiment_Analysis_Using_Bertweet.ipynb
+
+Graph_Rag.ipynb
+
+⚠️ Model Weights
+
+The fine-tuned model weights are not included in this repository due to size constraints.
+They can be provided upon request.
+
+👥 Authors & Contributions
+
+This project was developed as a collaborative academic project.
+
+Contributors:
+
+Wassim Azaiez
+
+Dhia Eddine Jedidi
+
+
+My contributions focused on:
+
+Graph modeling and analysis
+
+Graph-RAG pipeline design
+
+Result interpretation and visualization
+
+🎯 Context
+
+This project was carried out in an academic context and is aligned with advanced topics in:
+
+Applied NLP
+
+Graph Neural Networks
+
+Retrieval-Augmented Generation (RAG)
+
+Social network analysis
+
+It is intended as a foundation for further research or industrial applications.
+
+
+---
+
+## ✅ Prochaines petites améliorations (optionnelles mais pro)
+Après le push, je te conseille :
+- Ajouter une **description GitHub**  
+  > *Graph-based sentiment analysis and influence detection using BERTweet and Graph-RAG*
+- Ajouter des **Topics** :
+
+
+nlp, graph-neural-networks, rag, bertweet, pytorch-geometric, data-science
+
+- **Pin le repo** sur ton profil
+
+---
+
+Si tu veux, je peux maintenant :
+- adapter ce README pour un **recruteur français**
+- te faire une **version plus “PFE académique”**
+- t’aider à **expliquer ce projet en entretien**
+
+👉 Dis-moi ce que tu veux optimiser ensuite 💪
