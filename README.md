@@ -124,23 +124,3 @@ It is intended as a foundation for further research or industrial applications.
 
 
 ---
-
-## ✅ Prochaines petites améliorations (optionnelles mais pro)
-Après le push, je te conseille :
-- Ajouter une **description GitHub**  
-  > *Graph-based sentiment analysis and influence detection using BERTweet and Graph-RAG*
-- Ajouter des **Topics** :
-
-
-nlp, graph-neural-networks, rag, bertweet, pytorch-geometric, data-science
-
-- **Pin le repo** sur ton profil
-
----
-
-Si tu veux, je peux maintenant :
-- adapter ce README pour un **recruteur français**
-- te faire une **version plus “PFE académique”**
-- t’aider à **expliquer ce projet en entretien**
-
-👉 Dis-moi ce que tu veux optimiser ensuite 💪
